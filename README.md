@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       4 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.20 %
-XAML             2 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-Other            2 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+TypeScript   4 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   38.63 %
+XAML         2 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+Other        2 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.40 %
 ```
 
 <!--END_SECTION:waka-->
