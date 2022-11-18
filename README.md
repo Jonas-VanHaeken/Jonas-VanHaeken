@@ -3,8 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             0 secs          █████████████▓░░░░░░░░░░░   54.94 %
-GitIgnore file   0 secs          ███████████▒░░░░░░░░░░░░░   45.06 %
+C#               37 mins         ████████████████████████▒   97.85 %
+Java             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
