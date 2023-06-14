@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           6 hrs 23 mins   ███████████████▓░░░░░░░░░   63.07 %
-PHP              3 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   35.64 %
-JavaScript       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Apache Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Vue.js           3 hrs 16 mins   ██████████████░░░░░░░░░░░   55.42 %
+PHP              2 hrs 30 mins   ██████████▓░░░░░░░░░░░░░░   42.44 %
+JavaScript       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Apache Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
