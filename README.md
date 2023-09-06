@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           54 mins         ████████████████████████▒   96.70 %
-YAML             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-GDScript         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
