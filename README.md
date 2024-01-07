@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           8 mins          █████████████░░░░░░░░░░░░   51.81 %
-GitIgnore file   3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
-JSON             2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-Text             1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-YAML             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
