@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP              54 mins         ███████████████▓░░░░░░░░░   63.20 %
+Vue.js           15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
+Blade Template   11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Text             3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+.env file        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
