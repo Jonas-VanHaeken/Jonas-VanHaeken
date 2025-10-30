@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML               2 hrs 59 mins   ██████████████████████░░░   87.57 %
-Markdown           12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-GitIgnore file     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-INI                4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Python             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
