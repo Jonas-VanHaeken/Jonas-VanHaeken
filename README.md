@@ -3,8 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL    2 hrs 8 mins    ████████████████████████▓   98.83 %
-YAML   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+SQL   2 hrs 8 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
