@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             2 hrs 47 mins   ████████████████████████░   95.84 %
-YAML               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Markdown           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-GitIgnore file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python             1 hr 41 mins    ███████████████████████▓░   94.74 %
+YAML               3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Markdown           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+GitIgnore file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
