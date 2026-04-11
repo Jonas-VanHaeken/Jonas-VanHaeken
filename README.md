@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL        2 mins                ████████████████████████▒   97.90 %
-Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-YAML       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Python     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
