@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                                   1 hr 21 mins          ███████████░░░░░░░░░░░░░░   44.24 %
-YAML                                     30 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-JavaScript                               29 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-Markdown                                 19 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Diagrams.net Diagram                     10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Python                                   1 hr 57 mins          █████████▒░░░░░░░░░░░░░░░   36.76 %
+JavaScript                               1 hr 42 mins          ████████░░░░░░░░░░░░░░░░░   32.08 %
+Markdown                                 32 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+YAML                                     30 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Diagrams.net Diagram                     22 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
 ```
 
 <!--END_SECTION:waka-->
